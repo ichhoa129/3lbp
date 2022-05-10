@@ -1,0 +1,102 @@
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll.config
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.pdb
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.pdb
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll.config
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.pdb
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.xml
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.xml
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.dll
+E:\PBL3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll.config
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.pdb
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.dll
+C:\Users\Asus\Desktop\New folder (3)\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll.config
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.pdb
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll.config
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.pdb
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.dll
+C:\Users\Asus\Desktop\PBL-9\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll.config
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.pdb
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.dll
+C:\Users\Asus\Desktop\PBL-3\pbl32\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.pdb
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll.config
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.dll
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\BUS.pdb
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.dll
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.dll
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.pdb
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DAL.dll.config
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\DTL.pdb
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.xml
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.dll
+D:\DUT\HK4\NET\Code\pbl3\QuanLyThietBiPhongHocHongVaTinhTrangXuLy\BUS\obj\Debug\BUS.pdb
